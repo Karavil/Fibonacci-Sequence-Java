@@ -1,0 +1,20 @@
+
+Normal Recursive:
+    3    5
+    8   13
+
+Time to compute:          21,201 nanoseconds, 0.0000 seconds.
+
+
+Iterative:
+    3    5
+    8   13
+
+Time to compute:          18,652 nanoseconds, 0.0000 seconds.
+
+
+Fast Recursive:
+    3    5
+    8   13
+
+Time to compute:          43,955 nanoseconds, 0.0000 seconds.
